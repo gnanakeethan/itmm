@@ -1,0 +1,44 @@
+QUIZ
+=====
+
+ROUND 1
+--------
+
+1. J2EE - Java 2 Enterprise Edition
+2. iPod equivalent of Microsoft - Zume
+3. iPhone OS - iOS
+4. 3rd Gen Telecomm - WiMAX and UMTS
+5. Web Content Indexing  - Web Crawlers
+6. TV Display Tech - LED Backlit LCD
+
+ROUND 2
+--------
+
+1. USB 3.0 {USB 3.0 Blued Cable}
+2. USB 3.0 {SS} - SuperSpeed
+3. eSata e stands for - external
+4. Parallel Port
+5. Galaxy Gear samsung first gen watch
+6. SIM Formfactor for iPhone  {iPhone} - Nano
+
+
+ROUND 3
+--------
+
+1. RFID stands for - Radio Frequency ID
+2. AS/400 introduced by - IBM
+3. CLI stands for - Command Line Interface
+4. NCR Stands for - No Carbon Required
+5. Special Chemical coated paper printer without ink - Thermal Printer
+6. Nano,Shuffle,Classic,Touch are variations of - iPod
+
+
+ROUND 4
+--------
+
+1. Private network within Public Network - Virtual Private Network
+2. Trojan Delivers Access to remote access - Backdoor
+3. Previously Unknown Security Vulnerability - ZeroDay Exploit
+4. Hacking related to DB  - SQL Injection
+5. Process of increasing speed of CPU - Overclocking
+6. Main Conductor material for Micro Processors - Gold

@@ -1,0 +1,47 @@
+QUIZ
+=====
+
+
+
+ROUND 1
+--------
+
+1. What is the technology used in 3rd generation computers ? - Integrated Circuits
+2. What is the communication technology that allows both parties communicate simulanatenously ? -  Full Duplex
+3. Who gave the definition of computer virus for the first time? - Fred Cohen
+4. Which server converts Web Address to a IP address ? -  DNS Server
+5. Which network device sends the data packets to specific address only ? - Switch
+6. .MOV extension refers to which type of file ? - Video File
+
+
+ROUND 2
+--------
+
+1. What is the thinnest and lightest laptop made by Apple, what it is called ? - MacBook Air
+2. What type of computer is shown on your screen ? -  Super Computer
+3. Identify the type of printer shown in the image ? - 3D printer
+4. Identify the specific name of the device shown here ? - SSD
+5. What is this type of connector on mother board known as ? - Socket Architecture
+6. What is this type of connector on processor known as ? - Pin Grid Architecture (PGA)
+
+
+ROUND 3
+--------
+
+1. Before the age of torrents, what is the popular platform for downloaded pirated content ? - P2P Architecture
+2. Facebook is aimed at general users, which is aimed at professionals ? - LinkedIn
+3. With relation to mobile networks, What does GPRS stands for ? - General Packet Radio Service
+4. With relation to web development what does ASP stands for ? - Active Server Pages
+5. With relation to Email , what does IMAP stands for ?  - Internet Message Access Protocol
+6. What is the format now used for representing integer number in modern computers ? - Two's Complement System
+
+
+ROUND 4
+--------
+
+1. Kim Dot Com was famous for creating which website ? - Megaupload.com
+2. Before chat forums was introduced, popular method was BBS, what does BBS stands for ? - Bulletin Board Service
+3. If you set tapping or delaying mechanism for a network intruder, what term could be used to describe it ? - Honeypot
+4. With relation to network security, what does TLS stands for ? - Transport Layer Security
+5. With relation to web development, what does JSP stands for ?  - Java Server Pages
+6. What does google play known by , before its named as google play ? - Android Market

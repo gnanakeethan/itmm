@@ -1,0 +1,20 @@
+
+Amiga 1000 featured a Virtual Desktop Environment
+"Build" is the annual microsoft developer conference since 2011  - logo //build/
+"Office 365" is the online office suite from Microsoft
+"Spartan" is the newest evolution of Microsoft IE
+"Trident" is the engine of Microsoft Internet Explorer
+"EdgeHTML" fork from trident is the engine of Spartan Browser
+"SKU" refers to Stock Keeping Unit
+"Microsoft Lynx Server" communication server from microsoft - IM, VoIP, SIP - http://upload.wikimedia.org/wikipedia/en/e/eb/Microsoft_Lync_icon.png
+"Active Directory" - directory service from microsoft developed for windows domain networks
+"Qmail" is the famous open source emailing software - used by Yahoo primitively for Y! Mail
+"Susan Diane Wojcicki" is the CEO of Youtube
+"Mark Hurd and Safra Catz" - co CEOs of ORACLE Corporation
+"Ursula_Burns" - CEO of Xerox
+"Meg Whitman" - CEO of HP
+HP stands for Hewlett Packard
+"Ginni Rometty" - CEO of IBM
+"Sheryl Sandberg" - COO of Facebook
+"AltaVista" was founded by  Louis Monier and Michael Burrows - created in 1995 - Yahoo acquired in 2003 -STATUS: defunct as of 2013 July
+"Microsoft SPOT"

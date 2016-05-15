@@ -1,0 +1,13 @@
+ALGOL - ALGOrithmic Language
+BASIC - Beginners All-purpose Symbolic Instruction Code
+BCPL -Basic ( Combined Programming Language  / Cambridge Programming language)
+CAML - Categorical Abstract Machine Language
+COBOL - COmmon Business Oriented Language
+CPL - Combined Programming Language  / Cambridge Programming language
+FORTRAN - FORmula TRANslator
+HTML - HyperText Markup Language
+IPL - Information Processing Language
+LISP - LISt Processing
+OCAML - Objective Categorical Abstract Machine Language
+PHP - PHP:Hypertext Preprocessor
+SPL - Structure Programming Language

@@ -1,0 +1,46 @@
+QUIZ
+=====
+
+ROUND 1
+--------
+
+1. In relation to operating systems what does CLI stands for  ? - Command Line Interface
+2. ENIAC was a early computer, what does ENIAC stands for ?- Electronic Numerical Intergrater and Computer
+3. What is the new top level domain used by top level professionals ? - .pro
+4. What is the method to search within a website in google ?- within:domainname
+5. What is the latest version of USB ? - USB 3
+6. What is the operating system used in iPhone and iPod ? - iOs
+
+
+
+ROUND 2
+--------
+
+1. Identify the image shown in the image ? - {http://www.dcviews.com/press/images/Imation-Micro-Hard-Drive.jpg} - Micro Hard Drive
+2. What is the company that holds the logo shown below ? - {http://blogs-images.forbes.com/ericsavitz/files/2012/06/rim-logo.jpg} - Research In Motion
+3. This is an answer by microsoft for iPod from apple, Identify the device ? - {http://upload.wikimedia.org/wikipedia/commons/6/6d/Zune80and4.jpg} - Zune
+4. What is the biometric device shown here - {https://www.elprocus.com/wp-content/uploads/2014/06/6-17-2014-1-30-19-AM.png} - Iris Scanner
+5. Identify the device shown in the image -  {http://en.wikipedia.org/wiki/Plotter#/media/File:HP_A0_Plotter_7585B.jpg} - Plotter
+6. Identify the network technology shown in the image - {http://photos.appleinsider.com/12.12.17-Wi-Fi.jpg} - Wifi
+
+
+ROUND 3
+--------
+
+1. The word modem is an abbreviation for which term ?- Modulation and Demodulation
+2. What company introduced the 3.5 Inch Floppy ?- Sony
+3. SD cards are popular cards for storage, What do the letters SD stands for ?- Secure Digital
+4. JPEG is a famous photography file type, what does the letters JPEG stands for ?- Joint Photographics Expert Group
+5. GIF is a famous image file format, what does the letters GIF stands for ? - Graphics Interchange Format
+6. What is a name of motion sensing device developed by Microsoft for xBox ?- Kinect
+
+
+ROUND 4
+--------
+
+1. What was the name of the google search engine before it was called google ? - BackRub
+2. Intel's First microprocessor was originally designed to work in which devices ? - Calculator
+3. What was the code name microsoft gave to Windows Vista during the development ? - Longhorn
+4. The website Jerry's guide to WWW renamed to what name - Yahoo
+5. Whats the data capacity of a Dual Layer single side DVD ? - Upto 8.5 GB
+6. What four companies collaborated for the development of DVD in 1995 ?  - Philip , Sony, Toshiba and Panasonic

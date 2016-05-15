@@ -1,0 +1,81 @@
+AMQP    -    Advanced Message Queuing Protocol
+ASAP    -    Aggregate Server Access Protocol
+BGMP    -    Border Gateway Multicast Protocol  IETF Developed
+BSDP    -    Boot Service Discovery Protocol  Apple Developed
+CARP    -    Common Access Redundancy Protocol
+CIP     -    Common Indexing Protocol
+DNS     -    Domain Name System
+DTLS    -    Data Transport Layer Security
+FCIP    -    Fibre Channel over IP
+FHRP    -    First Hop Redundancy Protocol
+FLIP    -    Fast Local Internet Protocol
+FTP:21  - File Transfer Protocol
+FTPS:22 - File Transfer Protocol Secure
+FX(S)P  -    File eXchange Protocol
+GENA    -    General Event Notification Architecture
+HFIP    -    High Frequency Internet Protocol
+HIP     -    Host Identity Protocol
+HOTP    -    HMAC based Onetime Password Algorithm
+HTTP:80 -    HyperText Transfer Protocol -
+HTTPA   -    HyperText Transfer Protocol with ACCOUNTABILITY
+ICAP    -    Internet Content Adaption Protocol
+ICMP    -    Internet Control Message Protocol
+IFCP    -    Internet Fibre Channel Protocol
+IGMP    -    Internet Group Messaging Protocol
+IGMP-AC -    Internet Group Messaging Protocol with Access Control
+IIP     -    Internet Imaging Protocol
+IMAP:143    -    Internet Message Access Protocol
+IMAPS:993    -    Internet Message Access Protocol Secure
+IOTP    -    Internet Open Trading Protocol
+IPCP    -    Internet Protocol Control Protocol(NETWORK CONTROL PROTOCOL)
+IPFC    -    Internet Protocol over Fibre Channel
+IRC:6667   -    Internet Relay Chat
+L2TP    -    Layer 2 Tunneling Protocol
+LAPP    -    LightWeight Access Point Protocol
+LDAP    -    Lightweight Directory Access Protocol
+LTP     -    Lightweight Telephony Protocol
+MAC     -    Media Access Control
+MGC     -    Media Gateway Controller
+MGCP    -    Media Gateway Control Protocol
+MLD     -    Multicast Listener Discovery
+MSDP    -    Multicast Source Discovery Protocol
+MTP     -    Multipurpose Transaction Protocol
+NDP     -    Neighbor Discovery Protocol
+NNTP    -    Network News Transfer Protocol
+NTP - Network Time Protocol
+OAuth   -    Open Authentication Protocol
+OCSP    -    Online Certificate Status Protocol
+ONC - Open Network Computing (ONC)
+POP:110 -    Post office Protocol
+POP:995 -    Post office Protocol Secure
+PTT     -    Push to Talk
+QOTD    -    Quote Of The Day
+QUIC    -    Quick UDP Connections Protocol
+RIP -  Routing Information Protocol
+RoIP    -    Radio over IP
+RPC - Remote Procedure Call (RPC)
+RTP - Real-time Transport Protocol
+RTSP - Real Time Streaming Protocol
+SDXF    -    Structured Data Exchange Format
+SEND    -    Secure Neighbor Discovery Protocol
+SILC        -    Secure Internet Live Conferencing Protocol
+SIP         -    Session Initiation Protocol
+SIP - Session Initiation Protocol
+SMTP:25     -    Simple Mail Transfer Protocol
+SMTP:465    -    Simple Mail Transfer Protocol
+SNMP    -    Simple Network Management Protocol
+SOCKS   -    SOCKet Secure
+SPDY    -    Speedy Protocol by Google(HTTP2)
+SSH:22     -    Secure SHell
+SUP     -    Simple Update Protocol
+TLS     -    Transport Layer Security
+TLS-PSK -    TLS pre shared key
+TLS-SRP -    TLS secure remote password
+ToIP    -    Text over IP
+TOTP    -    Time-based One time Password Algorithm
+u(micro)TP - Micro Transport Protocol  (bittorrent alternative)
+UDP     -    User Diagram Protocol
+URI     -    Uniform Resource Identifier
+VTP     -    Venturi Transport Protocol
+WebDAV  -    Web Distributed Authoring and Versioning
+XMPP - Extensible Messaging and Presence Protocol

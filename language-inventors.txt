@@ -1,0 +1,19 @@
+1954  - FORTRAN             IBM
+1958  - LISP                Steve Russell
+1959  - COBOL               CODASYL ( Conference On Data SYstem Languages) - Grace Hopper referred as Grandmother
+1975  - Prolog              Alan Cotineraur
+1980s - SmallTalk           Learning Research Group
+1983  - Ada                 Jean Ichbiah and Team
+1985  - Caml                Geral Huel
+1985  - Perl                Larry Wall
+1989  - C++                 Bjarne Stroustrap
+1989  - Python              Guido Van Rossum
+1990  - Haskell             Simon Peyton Jones
+1990s - C#                  Microsoft
+1990s - Java                James Gosling - Sun Micro Systems
+1993  - Lua                 Roberto Ierusalimschy, Luiz Henrique de Figueiredo, and Waldemar Celes
+1994  - Javascript          Brendon Eich (Mochascript/Livescript previously)
+1995  - Ruby                Yukiro Matzumoto
+2003  - Scala               Martin Odersky
+2005  - F#                  Microsoft and F# Software Foundation
+2009  - GoLang             Google (Robert Griesemer,Rob Pike,Ken Thompson)

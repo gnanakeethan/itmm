@@ -1,0 +1,42 @@
+
+
+r 1
+
+1. interface not to keyboard paralell
+2. display directory content - ls
+3. cross platform app develop - titanium
+4. iOS progrmm - Objective
+5. BB was called - RIM
+6. LTE - Long Term Evolution
+
+
+
+
+r 2
+
+1. CMOS Chip
+2. CCD
+3. Michael Dell
+4. Quicktime
+5. Patch Panel - new
+6. Floppy
+
+
+r 3
+
+1. GFW - Great Firewall of China
+2. Youtube owned by Google
+3. IPv4 - 32 bits
+4. RFC - Request For Comments
+5.
+6. MICR - bank notes
+
+
+r 4
+
+1. reduce redundancy  - normalisation
+2. QDOS - Quick and Dirty OS
+3. SSD - Sol St Drive
+4. SpeedStep Intel Techno
+5. data mining
+6.

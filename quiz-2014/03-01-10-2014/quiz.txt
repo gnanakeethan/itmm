@@ -1,0 +1,42 @@
+
+ROUND 1
+--------
+
+1. Whats the Standard Protocol Used in Intenet -TCP/IP
+2. HSDPA stands for - High Speed Data Packet Access
+3. Range of BT technology - 60 m
+4. Bandwidth of Bluetooth 4.0 - 250 Mbps
+5. Transmitting of Data with LED - LiFi
+6. Newest windows by 2015 - Windows Blue (Currently it is Win 10)
+
+ROUND 2
+--------
+
+1. Device used in corporate networks- network switch
+2. 3D Mouse
+3. Crimpher
+4. Google Doodle
+5. Type of Input device - Light Pen
+6. Co-axial Cable
+
+
+ROUND 3
+--------
+
+1. What is the logic gate , 1 as output when its all inputs are zero - NOR
+2. Other name for WORM type of ROM - PROM
+3. Object Orientation allows multiple implementations - Polymorphism
+4. Network device used before Network Switch - Network Hub
+5. Processor Developed by intel for Ultra Portable Netbooks - Intel Atom series
+6. HTTP Error code 403 stands for  - Forbidden
+
+ROUND 4
+--------
+
+1. Command used to remove data object in SQL - DROP
+2. What is the other name given to Firewire interface - iLink
+3. What data used to store data with decimal points - Float/Double
+4. Whats the name given to learn software by exploring software - Reverse Eng.
+5. Component of the motherboard where BIOS Stored - CMOS
+6. Programming Language used for Scientific Computing - FORTRAN
+

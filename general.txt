@@ -1,0 +1,138 @@
+ADSL           -    Asynchronous/Asymmetric Digital Subscriber Line
+Agile          -    Agile Development Practice
+Amazon EC2     -    Amazon Elastic Compute Cloud
+Amazon S3      -    Amazon Simple Storage Service
+AMOLED         -    Active Matrix Organic Light Emitting Diode
+AOP            -    Aspect Oriented Programming
+APN - Access Point Name.
+APT            -    Advanced Packaging Tool
+ARM            -    Acorn RISC Machine
+ARML           -    Augmented Reality Markup Language
+ASP            -    Application Service Provider
+AWS            -    Amazon Web Services
+BAM            -    Business Activity Monitoring
+BDD            -    Behavior Driven Development
+BDFL           -    Benovelent Dictator For Life
+Beta Test      -    FIELD TEST @ IBM
+BI             -    Business Intelligence
+BOA            -    Business Oriented Architecture
+BPA            -    Business Process Automation
+BPI            -    Business Process Improvement
+BPM            -    Business Process Management
+BPMN           -    Business Process Model and Notation
+BPO            -    Business Process Outsourcing
+BPR            -    Business Process Reengineering
+BSD            -    Berkerly Software Foundation
+BZR            -    Bazaar (VCS)
+CAPEX          -    Capital Expenditure
+CEPT           -    Center for Environmental Planning and Technology
+CERN           -    Councile European Nuclear Research
+CIDR           -    Classless Inter Domain Routing
+CQRS           -    Command Query Responsibility Segregation
+CTC            -    Cost To Company
+CTR Company    -    Computing Tabulating Recording formed as IBM
+CVS            -    Concurrent Version Systems(logo remember)
+DDD            -    Domain Driven Design
+DevOps         -    Development and Operations
+DIVX - Digital internet video access.
+DLNA - Digital Living Network Alliance.
+DNSE - Digital natural sound engine.
+DPKG           -    Debian Package
+DRM            -    Digital Rights Management
+DSDM           -    Dynamic System Development Method
+DTP - Desk top publishing.
+DVBC           -    Digital Video Broadcasting — Cable
+DVBS           -    Digital Video Broadcasting — Satellite
+DVBT           -    Digital Video Broadcasting — Terrestrial
+EAS            -    Enterprise Application Software
+EDGE - Enhanced Data Rates for Global Evolution.
+EOL            -    End Of Life / Line
+EOLA           -    End Of Life Announcement
+EOS            -    End Of Sale
+ERD            -    Entity Relationship Diagram
+ERP            -    Enterprise Resource Planning
+ESN            -    Electronic Serial Number
+EULA           -    End User License Agreement
+FDD            -    Feature Driven Development
+FOAF           -    Friend Of A Friend
+FPKE - Forward Public Key Encryption
+Frugal Innovation -  reducing complexity and cost of a product
+FTTH           -    Fibre To The Home
+GA             -    General Availability
+GSM            -    Global Service for Mobile  communications
+HMD            -    Head Mounted Display (Oculous Rift)
+HP - Hewlett Packard.
+HSDPA - High speed down-link packet access.
+HSUPA - High-Speed Uplink Packet Access.
+HUD            -    Head Up Display
+IEC            -    International Electrotechnical Commission
+Inverse Public Key Encryption (IPKE)
+ISDN           -    Intergrated Services Digital Network
+IVRS - Interactive Voice Response System.
+J2ME - Java 2 micro edition.
+JVT            -    Joint Video Team
+Kansei Eng.ring-    Emotional Engineering
+LCoS/LCOS      -    Liquid Crystal on Screen
+LOD            -    Last Order Date
+LSD            -    Lean Software Development
+LTS            -    Long Term Support
+MDD            -    Model Driven Engineering/Development
+MPEG           -    Moving Picture Expert Group
+MTBF           -    Mean Time Between Failures
+MVC            -    Model View Controller
+NCQ            -    Native Command Queuing
+NCSA           -    National Center for Supercomputing Applications
+NFC - Near field communication.
+NTSC           -    National Television System Committee
+OHMD           -    Optical Head Mounted Display(Google Glass)
+OLED           -    Organic Light Emitting Diode
+OMA            -    Open Mobile Alliance
+OPEX           -    Operating Expenditure
+OTA            -    Over The Air programming/updates
+OTG - On-the-go.
+OTP            -    One Time Password
+PGP  - Pretty Good Privacy
+PMOLED         -    Passive Matrix OLED
+POLED          -    Plastic OLED
+PPI - Pixels Per Inch.
+PROM           -    Programmable Read Only Memory
+Public key infrastructures (PKIs)
+QVGA - Quarter Video Graphics Array.
+QVGA - Quarter Video Graphics Array.
+RAD            -    Rapid Application Development
+RDF            -    Resource Description Framework
+REPL           -    Read Execute Print Loop
+RIP            -    Rule Interchange Format
+RISC           -    Reduced Instruction Set Computer
+ROM            -    Read Only Memory
+RPM            -    Redhat Package Manager
+RSS - Really simple syndication.
+RTM            -    Release To Manufacturing
+RUP/UP         -    Rational Unified Process
+S-LCD - Super Liquid Crystal Display.
+SAR            -    Spatial Augmented Reality
+Scrum          -    Agile Development Practice
+SIM - Subscriber Identity Module.
+SNS - Social network service.
+SoC            -    A system on a chip or system on chip
+SSEC           -    Selective Sequence Electronic Calculator
+SSHD           -    Solid State Hybrid Drive
+STS            -    Short Term Support
+SVN            -    Subversion(logo remember)
+SVS            -    Synthetic Vision System
+TCO            -    Total Cost of Ownership
+TDD            -    Test Driven Development
+TFT - Thin film transistor.
+UEFI           -    Unified Extensible Firmware Interface
+VCEG           -    Video/Visual Coding Expert Group
+VR             -    Virtual Reality
+VRD            -    Virtual Retina Display(projected into eye)
+VRML           -    Virtual Reality Modeling Language
+WCDMA - Wide-band Code Division Multiple Access.
+WORA           -    Write Once Run Anywhere
+WORE           -    Write Once Run Everywhere
+WORM           -    Write Once Read Many
+WVGA - Wide video graphics array.
+WXGA - Widescreen Extended Graphics Array.
+XP             -    Extreme Programming
+YUM            -    Yellowdog Updater, Modified

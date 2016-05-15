@@ -1,0 +1,44 @@
+QUIZ
+=====
+
+ROUND 1
+--------
+
+1. which of the following is not a direct security risk - Spam
+2. E-commerce involves  - E-catalogs,
+3. Identify the operation that is not  a e-commerce application - evaluation of employee
+4. What are the two broad kinds of Video Conferencing Systems - Dedicated Systems and Desktop Systems
+5. Who developed the first full electronic computer - Atanasoft and Berry
+6. What is the binary state of a high voltage level of a computer system  - 1
+
+
+ROUND 2
+--------
+1. Identify this modern apple device interface - Apple TV
+2. What is the purpose of this device {Face scanner} - Face Scanning/Recognition
+3. Name the device given in the image - Gamepad
+4. Name the device given in the image - Graphics Tablet
+5. Name the device that you see on the screen - Magnetic Strip Reader
+6. What is the purpose of the device that you see{Handheld OCR} - Optical Character Recognition
+
+
+ROUND 3
+--------
+1. What company developed a popular flash technology  - Macromedia
+2. What organization was responsible for BMP image format - Microsoft
+3. Microsoft introduced a competing technology to Flash - Silverlight
+4. Joysticks , Gamepads create vibrations for feedback, what does this technology known as - Haptic Feedback
+5. XBOX is the famous gaming platform developed by Microsoft, what's its latest version know as  - Xbox One
+6. What does the term MPEG - Motion Picture Expert Group
+
+
+
+ROUND 4
+--------
+1. In relation to computer data , what does CRC stands for - Cyclic Redundancy Check
+2. What organisation respnsible for MP3 encoding - Afron Hofer Institute
+3. What do the letters stand for CF in memory cards - Compact Flash
+4. What organization was responsible for introducing GIF - Compuserve Network
+5. SWF stands for in  - Shockwave Flash
+6. What company developed Yii range of gaming consoles - Nintendo
+

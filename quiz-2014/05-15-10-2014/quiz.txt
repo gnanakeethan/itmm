@@ -1,0 +1,44 @@
+QUIZ
+=====
+
+ROUND 1
+--------
+
+1. What type of advertisements appear on top of web pages ? - Popup Ads
+2. What is the most suitable explanation for Ebay ? - Portal for Buyers and Sellers to meet
+3. The BBC site is a ?  - A Media/Publisher Site
+4. Who is having the ownership of flight search web application ? - Google
+5. Who is the present CEO of Apple Inc ? - Tim Cook
+6. Who developed the Android Studio ? - Google
+
+
+ROUND 2
+--------
+1. Identify whats shown in the image {Fibre Optic Cable Image} - Fibre Optic Cable
+2. What is this type of input device known as {Trackball Image} - Trackball
+3. This company developed a popular business communication tool{Research In Motion Logo} - Blackberry
+4. This is a important tool for network technician {Network cable tester Image}- Network Cable Tester
+5. What is the name of the computers used as both {image of rotating screen Tablet PC}? - Tablet PC
+6. This company is well known due to what programming language {Zend Framework Logo} - PHP
+
+
+
+ROUND 3
+--------
+1. What is the alternative name for a tuple in a database - row/record
+2. What is the name given for a software stored and used from ROM - Firmware
+3. How many conductors are used in a SATA cable - 7 conductors
+4. What is the speed of USB 3.0 ? - 600MBps / 5 Gbps
+5. How many characters supported in EBCDIC - 256 Characters
+6. What is the programme found in BIOS ROM loads the operating system - Bootloader/Bootstrapper
+
+
+ROUND 4
+--------
+1. Some website saves a text file on the computer for tracking. What is it  ?  - cookies
+2. UML is a design tool. What does UML stands for - Unified Modeling Language
+3. In relation to CPU Performance MIPS stands for - Millions of Instructions Per second
+4. Whats the capacity of a Standard 3.5 Inch Floppy Disk - 1.44 MB
+5. How many bits are used in UNICODE to encode a character ? - 16 Bits
+6. In relation to CPU performance what does CPI stands for ? - Cycles per Instruction
+
