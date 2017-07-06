@@ -22,7 +22,7 @@ BPM            -    Business Process Management
 BPMN           -    Business Process Model and Notation
 BPO            -    Business Process Outsourcing
 BPR            -    Business Process Reengineering
-BSD            -    Berkerly Software Foundation
+BSD            -    Berkerly Software Distribution
 BZR            -    Bazaar (VCS)
 CAPEX          -    Capital Expenditure
 CEPT           -    Center for Environmental Planning and Technology
